@@ -1,3 +1,3 @@
 # Python_basics
 
-These are some specific codes that helps you to understand the python language 
+These are some basic codes and syntax for understanding the python language
